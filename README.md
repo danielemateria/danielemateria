@@ -1,5 +1,4 @@
-Hello! I’m a Computer Science Master student at the Department of Mathematics and Computer Science, University of Catania -> https://web.dmi.unict.it <br>
-My main research interest is the use of Vision Language Models in the egocentric domain, focusing on the development of systems that provide intelligent assistance and guidance to users performing complex procedural tasks. I'm a member of the LIVE@IPLab research group at my department.
+Computer Science Master’s student at the University of Catania and member of the [LIVE@IPLAB](https://iplab.dmi.unict.it/fpv/}{LIVE@IPLAB) research group. My academic focus is centered on AI and Computer Vision, with a specific interest in Vision-Language Models for egocentric video understanding and the development of intelligent assistive systems tailored for users performing complex procedural tasks.
 
 <!---
   // ////          //              //
