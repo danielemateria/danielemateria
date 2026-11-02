@@ -2,6 +2,8 @@ Computer Science Master’s student at the University of Catania and member of t
 
 Visit my [website](https://danielemateria.github.io) for more info :)
 
+<img src="koi/koi.gif" width="256" alt="My koi" />
+
 <!---
   // ////          //              //
   //     ///       //  //      //  //
